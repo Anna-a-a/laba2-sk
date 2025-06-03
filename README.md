@@ -1,5 +1,6 @@
 # MPI Parallel Programming: Array Operations and Sorting
-
+# Task 3 
+# Task 4
 * `serial_array_ops.c` — последовательная обработка одномерных массивов (операции +, -, \*, /).
 * `matrix_ops_serial.c` — последовательная обработка двумерных массивов (операции +, -, \*, /).
 * `array_ops_parallel.c` — параллельная обработка одномерных массивов с использованием MPI.
